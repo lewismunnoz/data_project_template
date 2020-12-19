@@ -57,6 +57,6 @@ def compute(operation, *args):
         
         
 compute("add", 5,2,3)
-compute("sub", 5,2.0)
+compute("sub", 5,2)
 compute("mul", 5,2,3)
 compute("div", 5,2)
