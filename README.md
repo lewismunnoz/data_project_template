@@ -2,18 +2,19 @@
 Data project template for my Ironhack Data Analytics Bootcamp at Ironhack
 # Data Project README file
 
+
+## **First Steps**
 Given two or more numbers compute its addition, or multiplication.
-    Given two numbers, compute addition, subtraction, multiplication or division.
+Given two numbers, compute addition, subtraction, multiplication or division.
     
-    Parameters:
+Parameters:
         x: Integer
         y: Integer
         operation: String. "add", "sub", "mul", "div"
-    
-    Returns:
+Returns:
         Result's computation. Float
 
-![Image](https://unsplash.com/photos/UZFCQPNc4bs)
+![Image](https://www.ebuyer.com/blog/wp-content/uploads/2014/07/buttons-on-a-calculator-header1.jpg)
 
 ---
 
