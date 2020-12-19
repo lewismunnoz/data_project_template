@@ -2,14 +2,18 @@
 Data project template for my Ironhack Data Analytics Bootcamp at Ironhack
 # Data Project README file
 
-The README file describes the essence of the project playing the most important role. Most visitors will simply scroll down about twice on the README and leave if they are not interested. So, the README file should provide the reason **why** to checkout your project!!!). 
-Bearing that in mind, your job is to: 
-- Tell them what it is (with context).
-- Show them what it looks like in action.
-- Show them how they use it.
-- Tell them any other relevant details.
+Given two or more numbers compute its addition, or multiplication.
+    Given two numbers, compute addition, subtraction, multiplication or division.
+    
+    Parameters:
+        x: Integer
+        y: Integer
+        operation: String. "add", "sub", "mul", "div"
+    
+    Returns:
+        Result's computation. Float
 
-![Image](hhttps://unsplash.com/photos/UZFCQPNc4bs)
+![Image](https://unsplash.com/photos/UZFCQPNc4bs)
 
 ---
 
